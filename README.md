@@ -4,8 +4,11 @@
 https://www.tinymind.com/silverbullet11/datasets/w9vgg16
 
 包括：
+
 1.1 vgg_16.ckpt: vgg_16的checkpoint文件
+
 1.2 fcn_train.record: 本地生成的训练数据
+
 1.3 fcn_val.record: 本地生成的验证数据
 
 ## 2. 训练模型执行结果：
