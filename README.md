@@ -2,6 +2,7 @@
 
 ## 1. 数据集准备：
 https://www.tinymind.com/silverbullet11/datasets/w9vgg16
+
 包括：
 1.1 vgg_16.ckpt: vgg_16的checkpoint文件
 1.2 fcn_train.record: 本地生成的训练数据
@@ -9,6 +10,7 @@ https://www.tinymind.com/silverbullet11/datasets/w9vgg16
 
 ## 2. 训练模型执行结果：
 2.1 模型设置： https://www.tinymind.com/silverbullet11/quiz-w9
+
 2.2 执行结果(log)： https://www.tinymind.com/executions/b4j88mru
 
 ## 3. 模型输出结果：
